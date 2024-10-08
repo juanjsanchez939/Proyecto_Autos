@@ -16,4 +16,4 @@ Si deseas contribuir, ¡no dudes en hacer un fork del repositorio y enviar un pu
 📄 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-Siente libre de ajustar cualquier sección según tus necesidades o preferencias. ¡Espero que esto te ayude a presentar tu proyecto de manera atractiva!
+Siente libre de ajustar cualquier sección según tus necesidades o preferencias. ¡Espero que esto te ayude a presentar tu proyecto de manera atractiva!.
